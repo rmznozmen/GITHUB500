@@ -3,7 +3,7 @@ public class ILKCLASSS {
         System.out.println("ilk class");
         
         //deneme basarili
-        
+        // deneme basarili oldu
     }
 
 }
